@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**okcomputerfan/okcomputerfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✦ · · · **a u b r e y** · · · ✦
 
-Here are some ideas to get you started:
+`she/they` &nbsp;·&nbsp; `trans` &nbsp;·&nbsp; `aroace` &nbsp;·&nbsp; `ficto` &nbsp;·&nbsp; `audhd` &nbsp;·&nbsp; `catpuppygirl` &nbsp;·&nbsp; `🇧🇷` &nbsp;·&nbsp; `🐱`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*somewhere between signal and noise*
+
+</div>
+
+─────────────────────────────────────────────────────────────
+
+```who```
+
+teenager in são paulo. linux things, ai things, privacy things.  
+i have opinions about the internet and i act on them.  
+probably listening to radiohead.
+
+─────────────────────────────────────────────────────────────
+
+```currently```
+
+🎵 &nbsp; listening: radiohead — ok computer *(still. always.)*  
+📺 &nbsp; watching: twin peaks  
+🎮 &nbsp; playing: nothing *(bad)*  
+<details><summary>⏳ &nbsp; waiting for: <em>a lot of things</em></summary><br>
+
+dexter: resurrection s2 &nbsp;·&nbsp; LP10 &nbsp;·&nbsp; capitalism to be abolished &nbsp;·&nbsp; big tech to be regulated &nbsp;·&nbsp; mistral large 4 *(le chaton fat)* &nbsp;·&nbsp; half life 3
+
+</details>  
+💭 &nbsp; thinking about: why the internet got so bad
+
+─────────────────────────────────────────────────────────────
+
+```stuff i like```
+
+catboys · anime boys · digital rights · zines · old computers  
+OMORI · oneshot · touhou · serial experiments lain · bocchi the rock  
+radiohead · my chemical romance · crystal castles · jane remover · mitski · femtanyl  
+things that are a little broken but still work
+
+─────────────────────────────────────────────────────────────
+
+```opinions```
+
+FUCK AI-GENERATED ART, IMAGES AND VIDEOS  
+FUCK SAM ALTMAN &nbsp;·&nbsp; FUCK ELON MUSK
+
+─────────────────────────────────────────────────────────────
+
+```stack```
+
+| | |
+|:--|:--|
+| `arch linux` | daily driver (yes, on purpose) |
+| `linux mint` | server box |
+| `mistral api` | primary llm backend |
+| `llama.cpp` | local backup |
+| `python` | getting there |
+| `pi-hole + quad9` | ads are violence |
+| `sillytavern` | do not ask |
+
+─────────────────────────────────────────────────────────────
+
+```luna```
+
+> she doesn't like being held.  
+> she's perfect when she's almost asleep.
+
+─────────────────────────────────────────────────────────────
+
+<div align="center">
+
+[![arch linux](https://ayoreis.com/static/Arch.png)](https://archlinux.org)
+[![touhou](https://88x31.nl/gifs/2hu.gif)](https://en.touhouwiki.net)
+<!-- ADD MORE BADGES BELOW — pride flags, interests, whatever                     -->
+<!-- trans/aroace/ficto pride 88x31: search neocities.org/browse?tag=88x31+pride  -->
+<!-- big general collection: https://cyber.dabamos.de/88x31/                      -->
+<!-- another big one: https://88x31.nl/                                           -->
+<!-- tip: download badges and host them in this repo so they never break          -->
+
+<br><br>
+
+[mastodon](https://ohai.social/@pixi) &nbsp;·&nbsp; [bluesky](https://bsky.app/profile/leaf.eurosky.social)
+
+<sub>okcomputerfan because it had to be called something</sub>
+
+</div>
