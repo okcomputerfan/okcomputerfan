@@ -20,7 +20,7 @@ probably listening to radiohead.
 
 ```currently```
 
-🎵 &nbsp; listening: radiohead — ok computer *(still. always.)*  
+🎵 &nbsp; listening: radiohead — the bends *(:3)*  
 📺 &nbsp; watching: twin peaks  
 🎮 &nbsp; playing: nothing *(bad)*  
 <details><summary>⏳ &nbsp; waiting for: <em>a lot of things</em></summary><br>
