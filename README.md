@@ -71,6 +71,9 @@ FUCK SAM ALTMAN &nbsp;·&nbsp; FUCK ELON MUSK
 
 <div align="center">
 
+![fuck nazis](https://88x31.nl/gifs/antinazi.gif)
+![Crush Capitalism](https://88x31.nl/gifs/cc-button.png)
+![asexuals now](https://88x31.nl/gifs/asexuals_now.gif)
 ![Arch](https://cyber.dabamos.de/88x31/archlinux.gif)
 [![touhou](https://88x31.nl/gifs/2hu.gif)](https://en.touhouwiki.net)
 <!-- ADD MORE BADGES BELOW — pride flags, interests, whatever                     -->
