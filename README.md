@@ -71,8 +71,19 @@ FUCK SAM ALTMAN &nbsp;·&nbsp; FUCK ELON MUSK
 
 <div align="center">
 
-[![arch linux](https://ayoreis.com/static/Arch.png)](https://archlinux.org)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Searxng](https://img.shields.io/badge/searxng-%233050FF.svg?style=for-the-badge&logo=searxng&logoColor=white)
+![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
+![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 [![touhou](https://88x31.nl/gifs/2hu.gif)](https://en.touhouwiki.net)
+![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
+![Matrix](https://img.shields.io/badge/matrix-%23000000?style=for-the-badge&logo=matrix&logoColor=white)
+![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
+![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)
+![Zen](https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white)
+
+
 <!-- ADD MORE BADGES BELOW — pride flags, interests, whatever                     -->
 <!-- trans/aroace/ficto pride 88x31: search neocities.org/browse?tag=88x31+pride  -->
 <!-- big general collection: https://cyber.dabamos.de/88x31/                      -->
