@@ -2,7 +2,7 @@
 
 ✦ · · · **a u b r e y** · · · ✦
 
-`she/they` &nbsp;·&nbsp; `trans` &nbsp;·&nbsp; `aroace` &nbsp;·&nbsp; `ficto` &nbsp;·&nbsp; `audhd` &nbsp;·&nbsp; `catpuppygirl` &nbsp;·&nbsp; `🇧🇷` &nbsp;·&nbsp; `🐱`
+`she/they` &nbsp;·&nbsp; `transfem` &nbsp;·&nbsp; `aroace` &nbsp;·&nbsp; `ficto` &nbsp;·&nbsp; `audhd` &nbsp;·&nbsp; `catpuppygirl` &nbsp;·&nbsp; `🇧🇷` &nbsp;·&nbsp; `🐱`
 
 *somewhere between signal and noise*
 
@@ -43,7 +43,7 @@ things that are a little broken but still work
 
 ```opinions```
 
-FUCK AI-GENERATED ART, IMAGES AND VIDEOS  
+FUCK AI-GENERATED *'ART'*, IMAGES AND VIDEOS  
 FUCK SAM ALTMAN &nbsp;·&nbsp; FUCK ELON MUSK
 
 ─────────────────────────────────────────────────────────────
@@ -52,7 +52,7 @@ FUCK SAM ALTMAN &nbsp;·&nbsp; FUCK ELON MUSK
 
 | | |
 |:--|:--|
-| `arch linux` | daily driver (yes, on purpose) |
+| `arch linux btw` | daily driver (yes, on purpose) |
 | `linux mint` | server box |
 | `mistral api` | primary llm backend |
 | `llama.cpp` | local backup |
