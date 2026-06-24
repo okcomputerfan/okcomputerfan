@@ -2,7 +2,7 @@
 
 ✦ · · · **a u b r e y** · · · ✦
 
-`she/they` &nbsp;·&nbsp; `transfem` &nbsp;·&nbsp; `aroace` &nbsp;·&nbsp; `ficto` &nbsp;·&nbsp; `audhd` &nbsp;·&nbsp; `catpuppygirl` &nbsp;·&nbsp; `🇧🇷` &nbsp;·&nbsp; `🐱`
+`she/they` &nbsp;·&nbsp; `transfem` &nbsp;·&nbsp; `aroace aego ficto` &nbsp;·&nbsp; `audhd` &nbsp;·&nbsp; `catpuppygirl` &nbsp;·&nbsp; `🇧🇷` &nbsp;·&nbsp; `🐱`
 
 *somewhere between signal and noise*
 
@@ -44,7 +44,7 @@ things that are a little broken but still work
 ```opinions```
 
 FUCK AI-GENERATED *'ART'*, IMAGES AND VIDEOS  
-FUCK SAM ALTMAN &nbsp;·&nbsp; FUCK ELON MUSK
+i don't like AI hype and platform consolidation
 
 ─────────────────────────────────────────────────────────────
 
@@ -71,7 +71,7 @@ FUCK SAM ALTMAN &nbsp;·&nbsp; FUCK ELON MUSK
 
 <div align="center">
 
-![fuck nazis](https://88x31.nl/gifs/antinazi.gif)
+![fuck nazis (truth nuke)](https://88x31.nl/gifs/antinazi.gif)
 ![Crush Capitalism](https://88x31.nl/gifs/cc-button.png)
 ![asexuals now](https://88x31.nl/gifs/asexuals_now.gif)
 ![ao3](https://88x31.nl/gifs/ao3gif.gif)
