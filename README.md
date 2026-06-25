@@ -2,7 +2,7 @@
 
 ✦ · · · **a u b r e y** · · · ✦
 
-`she/they` &nbsp;·&nbsp; `transfem` &nbsp;·&nbsp; `aroace aego ficto` &nbsp;·&nbsp; `audhd` &nbsp;·&nbsp; `catpuppygirl` &nbsp;·&nbsp; `🇧🇷` &nbsp;·&nbsp; `🐱`
+`she/her` &nbsp;·&nbsp; `transfem` &nbsp;·&nbsp; `aroace aego ficto` &nbsp;·&nbsp; `audhd` &nbsp;·&nbsp; `catpuppygirl` &nbsp;·&nbsp; `🇧🇷` &nbsp;·&nbsp; `🐱`
 
 *somewhere between signal and noise*
 
