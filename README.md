@@ -2,7 +2,7 @@
 
 ✦ · · · **a u b r e y** · · · ✦
 
-`she/her` &nbsp;·&nbsp; `transfem` &nbsp;·&nbsp; `aroace aego ficto` &nbsp;·&nbsp; `audhd` &nbsp;·&nbsp; `catpuppygirl` &nbsp;·&nbsp; `🇧🇷` &nbsp;·&nbsp; `🐱`
+`she/her` &nbsp;·&nbsp; `transfem` &nbsp;·&nbsp; `aroace aego ficto` &nbsp;·&nbsp; `audhd` &nbsp;·&nbsp; `🇧🇷` &nbsp;·&nbsp; `🐱`
 
 *somewhere between signal and noise*
 
@@ -26,8 +26,8 @@ probably listening to radiohead.
 <details><summary>⏳ &nbsp; waiting for: <em>a lot of things</em></summary><br>
 
 dexter: resurrection s2 &nbsp;·&nbsp; LP10 
-&nbsp;·&nbsp; the ai bubble to pop 
-&nbsp;·&nbsp; estrogen &nbsp;·&nbsp; capitalism to be abolished &nbsp;·&nbsp; big tech to be regulated &nbsp;·&nbsp; mistral large 4 *(le chaton fat)* &nbsp;·&nbsp; half life 3
+&nbsp;·&nbsp; the ai hype to cool down/ai marketing to chill out 
+&nbsp;·&nbsp; estrogen &nbsp;·&nbsp; capitalism to be reformed/the tech industry to be less extractive &nbsp;·&nbsp; big tech to be regulated &nbsp;·&nbsp; mistral large 4 *(le chaton fat)* &nbsp;·&nbsp; half life 3
 
 </details>  
 💭 &nbsp; thinking about: why the internet got so bad
@@ -45,7 +45,7 @@ things that are a little broken but still work
 
 ```opinions```
 
-FUCK AI-GENERATED *'ART'*, IMAGES AND VIDEOS  
+skeptical of AI-generated *"art"* and images  
 i don't like AI hype and platform consolidation
 
 ─────────────────────────────────────────────────────────────
