@@ -80,8 +80,7 @@ found 5 bugs in heym. 1 was an RCE. responsibly disclosed.
 
 <div align="center">
 
-<a
-href="https://github.com/heymrun/heym/security/advisories/GHSA-pm6h-x3h5-j38h"><img src="https://img.shields.io/badge/GHSA-8.8_High-red?style=flat&label=sec&labelColor=000" alt="GHSA-pm6h-x3h5-j38h Finder"></a>
+<a href="https://github.com/heymrun/heym/security/advisories/GHSA-pm6h-x3h5-j38h"><img src="https://img.shields.io/badge/heym_audit-5_bugs_·_1_RCE-red?style=flat&labelColor=000" alt="heym security advisory — 5 bugs found, 1 RCE"></a>
 ![antifascist](https://88x31.nl/gifs/antinazi.gif)
 ![asexuals now](https://88x31.nl/gifs/asexuals_now.gif)
 ![pro ao3 freak](https://88x31.nl/gifs/ao3gif.gif)
@@ -95,8 +94,7 @@ href="https://github.com/heymrun/heym/security/advisories/GHSA-pm6h-x3h5-j38h"><
 <!-- tip: download badges and host them in this repo so they never break          -->
 
 <br><br>
-
-[mastodon](https://ohai.social/@pixi) &nbsp;·&nbsp; [bluesky](https://bsky.app/profile/leaf.eurosky.social)
+[mastodon](https://ohai.social/@pixi)  ·  [bluesky](https://bsky.app/profile/leaf.eurosky.social)  ·  [meow@placeq.com](mailto:meow@placeq.com) 
 
 <sub>okcomputerfan because it had to be called something</sub>
 
