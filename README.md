@@ -12,7 +12,7 @@
 
 ```who```
 
-teenager in são paulo. linux things, llm things, privacy things.  
+teenager in são paulo. linux things, llm things, privacy things, security things.  
 i have opinions about the internet and i act on them.  
 probably listening to radiohead.
 
