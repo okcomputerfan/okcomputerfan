@@ -25,7 +25,9 @@ probably listening to radiohead.
 🎮 &nbsp; playing: nothing *(bad)*  
 <details><summary>⏳ &nbsp; waiting for: <em>a lot of things</em></summary><br>
 
-dexter: resurrection s2 &nbsp;·&nbsp; LP10 &nbsp;·&nbsp; capitalism to be abolished &nbsp;·&nbsp; big tech to be regulated &nbsp;·&nbsp; mistral large 4 *(le chaton fat)* &nbsp;·&nbsp; half life 3
+dexter: resurrection s2 &nbsp;·&nbsp; LP10 
+&nbsp;·&nbsp; the ai bubble to pop 
+&nbsp;·&nbsp; estrogen &nbsp;·&nbsp; capitalism to be abolished &nbsp;·&nbsp; big tech to be regulated &nbsp;·&nbsp; mistral large 4 *(le chaton fat)* &nbsp;·&nbsp; half life 3
 
 </details>  
 💭 &nbsp; thinking about: why the internet got so bad
