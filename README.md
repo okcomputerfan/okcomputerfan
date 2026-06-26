@@ -13,7 +13,7 @@
 ```who```
 
 teenager in são paulo. linux things, llm things, privacy things, security things.  
-i have opinions about the internet and i act on them.  
+i have opinions about the internet and i act on them — usually by reading source code or filing LGPD complaints. 
 probably listening to radiohead.
 
 ─────────────────────────────────────────────────────────────
@@ -44,9 +44,10 @@ things that are a little broken but still work
 ─────────────────────────────────────────────────────────────
 
 ```opinions```
-
-skeptical of AI-generated *"art"* and images  
-i don't like AI hype and platform consolidation
+privacy is a right, not a featuredaily runs arch + lineageos (gms-free) because digital autonomy matters
+filed formal LGPD complaints — enforcement > legislation
+left openai over the pentagon deal · chose claude on privacy grounds
+skeptical of AI-generated "art" and platform enshittification
 
 ─────────────────────────────────────────────────────────────
 
