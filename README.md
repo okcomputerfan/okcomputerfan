@@ -13,8 +13,8 @@
 ```who```
 
 teenager in são paulo. linux things, llm things, privacy things, security things.  
-i have opinions about the internet and i act on them — usually by reading source code or filing LGPD complaints. 
-probably listening to radiohead.
+i have opinions about the internet and i act on them — usually by reading source code or filing LGPD complaints.
+<br>probably listening to radiohead.
 
 ─────────────────────────────────────────────────────────────
 
@@ -44,7 +44,8 @@ things that are a little broken but still work
 ─────────────────────────────────────────────────────────────
 
 ```opinions```
-privacy is a right, not a featuredaily runs arch + lineageos (gms-free) because digital autonomy matters
+privacy is a right, not a feature
+daily runs arch + lineageos (gms-free) because digital autonomy matters
 filed formal LGPD complaints — enforcement > legislation
 left openai over the pentagon deal · chose claude on privacy grounds
 skeptical of AI-generated "art" and platform enshittification
