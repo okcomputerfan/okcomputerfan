@@ -64,6 +64,13 @@ i don't like AI hype and platform consolidation
 
 ─────────────────────────────────────────────────────────────
 
+```security```
+
+found 5 bugs in heym. 1 was an RCE. responsibly disclosed.
+[GHSA-pm6h-x3h5-j38h](https://github.com/heymrun/heym/security/advisories/GHSA-pm6h-x3h5-j38h) · cvss 8.8 high · fixed in v0.0.53
+
+─────────────────────────────────────────────────────────────
+
 ```luna```
 
 > she doesn't like being held.  
@@ -73,6 +80,8 @@ i don't like AI hype and platform consolidation
 
 <div align="center">
 
+<a
+href="https://github.com/heymrun/heym/security/advisories/GHSA-pm6h-x3h5-j38h"><img src="https://img.shields.io/badge/GHSA-8.8_High-red?style=flat&label=sec&labelColor=000" alt="GHSA-pm6h-x3h5-j38h Finder"></a>
 ![fuck nazis (truth nuke)](https://88x31.nl/gifs/antinazi.gif)
 ![Crush Capitalism](https://88x31.nl/gifs/cc-button.png)
 ![asexuals now](https://88x31.nl/gifs/asexuals_now.gif)
