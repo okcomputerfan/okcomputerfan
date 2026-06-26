@@ -84,7 +84,7 @@ found 5 bugs in heym. 1 was an RCE. responsibly disclosed.
 href="https://github.com/heymrun/heym/security/advisories/GHSA-pm6h-x3h5-j38h"><img src="https://img.shields.io/badge/GHSA-8.8_High-red?style=flat&label=sec&labelColor=000" alt="GHSA-pm6h-x3h5-j38h Finder"></a>
 ![antifascist](https://88x31.nl/gifs/antinazi.gif)
 ![asexuals now](https://88x31.nl/gifs/asexuals_now.gif)
-![ao3](https://88x31.nl/gifs/ao3gif.gif)
+![pro ao3 freak](https://88x31.nl/gifs/ao3gif.gif)
 ![000010](https://88x31.nl/gifs/000010.gif)
 ![Arch](https://cyber.dabamos.de/88x31/archlinux.gif)
 [![touhou](https://88x31.nl/gifs/2hu.gif)](https://en.touhouwiki.net)
