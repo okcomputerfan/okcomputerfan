@@ -44,14 +44,11 @@ things that are a little broken but still work
 ─────────────────────────────────────────────────────────────
 
 ```opinions```
-privacy is a right, not a feature
 
-daily runs arch + lineageos (gms-free) because digital autonomy matters
-
-filed formal LGPD complaints — enforcement > legislation
-
-left openai over the pentagon deal · chose mistral on privacy grounds
-
+privacy is a right, not a feature 
+daily runs arch + lineageos (gms-free) because digital autonomy matters 
+filed formal LGPD complaints — enforcement > legislation 
+left openai over the pentagon deal · chose mistral on privacy grounds 
 skeptical of AI-generated "art" and platform enshittification
 
 ─────────────────────────────────────────────────────────────
