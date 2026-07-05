@@ -27,7 +27,7 @@ i have opinions about the internet and i act on them — usually by reading sour
 
 dexter: resurrection s2 &nbsp;·&nbsp; LP10 
 &nbsp;·&nbsp; the ai hype to cool down/ai marketing to chill out 
-&nbsp;·&nbsp; estrogen &nbsp;·&nbsp; capitalism to be reformed/the tech industry to be less extractive &nbsp;·&nbsp; big tech to be regulated &nbsp;·&nbsp; mistral large 4 *(le chaton fat)* &nbsp;·&nbsp; half life 3
+&nbsp;·&nbsp; estrogen &nbsp;·&nbsp; capitalism to be reformed/the tech industry to be less extractive &nbsp;·&nbsp; big tech to be regulated &nbsp;·&nbsp; mistral large 4 *(le chaton fat [redditors made the meme unfunny in a few days])* &nbsp;·&nbsp; half life 3
 
 </details>  
 💭 &nbsp; thinking about: why the internet got so bad
@@ -61,9 +61,9 @@ skeptical of AI-generated "art" and platform enshittification
 | `linux mint` | server box |
 | `mistral api` | primary llm backend |
 | `llama.cpp` | local backup |
-| `python` | getting there |
+| `python` | getting there (never) |
 | `pi-hole + quad9` | ads are violence |
-| `sillytavern` | do not ask |
+| `marinara engine / sillytavern` | do not ask |
 
 ─────────────────────────────────────────────────────────────
 
@@ -96,9 +96,10 @@ found 5 bugs in heym. 1 was an RCE. responsibly disclosed.
 <!-- another big one: https://88x31.nl/                                           -->
 <!-- tip: download badges and host them in this repo so they never break          -->
 
+
 <br><br>
 [mastodon](https://ohai.social/@pixi)  ·  [bluesky](https://bsky.app/profile/leaf.eurosky.social)  ·  [meow@placeq.com](mailto:meow@placeq.com) 
 
-<sub>okcomputerfan because it had to be called something</sub>
+<sub>okcomputerfan because it had to be called *something*</sub>
 
 </div>
