@@ -98,7 +98,7 @@ found 5 bugs in heym. 1 was an RCE. responsibly disclosed.
 
 
 <br><br>
-[mastodon](https://ohai.social/@pixi)  ·  [bluesky](https://bsky.app/profile/leaf.eurosky.social)  ·  [meow@placeq.com](mailto:meow@placeq.com) 
+[mastodon](https://ohai.social/@pixi)  ·  [bluesky](https://bsky.app/profile/leaf.eurosky.social)  ·  [gnarly-slug-icy@duck.com](gnarly-slug-icy@duck.com) 
 
 <sub>okcomputerfan because it had to be called *something*</sub>
 
