@@ -57,10 +57,11 @@ skeptical of AI-generated "art" and platform enshittification
 
 | | |
 |:--|:--|
-| `arch linux btw` | daily driver (yes, on purpose) |
+| `arch linux btw` | daily driver *(yes, on purpose)* |
 | `linux mint` | server box |
-| `mistral api` | primary llm backend |
-| `llama.cpp` | local backup |
+| `venice api` | primary llm backend |
+| `azure api` | backup llm backend |
+| `llama.cpp` | local backup *(gtx 1050 ti 4gb vram + local fable = 💣💥)* |
 | `python` | getting there (never) |
 | `pi-hole + quad9` | ads are violence |
 | `marinara engine / sillytavern` | do not ask |
