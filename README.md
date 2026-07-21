@@ -86,9 +86,18 @@ found 5 bugs in heym. 1 was an RCE. responsibly disclosed.
 
 <a href="https://github.com/heymrun/heym/security/advisories/GHSA-pm6h-x3h5-j38h"><img src="https://img.shields.io/badge/heym_audit-5_bugs_·_1_RCE-red?style=flat&labelColor=000" alt="heym security advisory — 5 bugs found, 1 RCE"></a>
 ![antifascist](https://88x31.nl/gifs/antinazi.gif)
-![asexuals now](https://88x31.nl/gifs/asexuals_now.gif)
+[![Get Tor and stay private!](https://catsarch.com/images/88x31/tor-v1.png)](https://torproject.org/)
+![pansexual](https://catsarch.com/images/88x31/pansexual-v1.png)
+![Catboys, Meow!](https://catsarch.com/images/88x31/catboys-v1.webp)
+![I Support Net Neutrality](https://catsarch.com/images/88x31/netneutrality-v1.png)
+![I Support Right To Repair](https://catsarch.com/images/88x31/righttorepair-v1.png)
+![Internet Privacy, Now!](https://catsarch.com/images/88x31/internet-privacy-v1.gif)
+![Free Speech, Now!](https://catsarch.com/images/88x31/fspeech96-v1.gif)
+[![Fight for open web standards. Fight for online privacy. Fight against monopolistic practices. Stand Against Google!" title="Fight for open web standards. Fight for online privacy. Fight against monopolistic practices. Stand Against Google!](https://catsarch.com/images/88x31/stand-up-to-google-v1.gif)](https://stallman.org/google.html)
+[![Defective by design. Eliminate DRM, Now!](https://catsarch.com/images/88x31/drm-v1.webp)](https://www.defectivebydesign.org/what_is_drm)
 ![pro ao3 freak](https://88x31.nl/gifs/ao3gif.gif)
 ![000010](https://88x31.nl/gifs/000010.gif)
+![Linux, Now!](https://catsarch.com/images/88x31/linux-v1.png)
 ![Arch](https://cyber.dabamos.de/88x31/archlinux.gif)
 [![touhou](https://88x31.nl/gifs/2hu.gif)](https://en.touhouwiki.net)
 <!-- ADD MORE BADGES BELOW — pride flags, interests, whatever                     -->
